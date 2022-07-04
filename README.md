@@ -6,23 +6,19 @@
 
 # ModLabs
 
+Install ModLabs With [ ModLabs Installer ](https://github.com/MikuuModz/ModLabsInstaller)
+
 ![GitHub contributors](https://img.shields.io/github/contributors/Sketchware-Pro/Sketchware-Pro) ![GitHub last commit](https://img.shields.io/github/last-commit/Sketchware-Pro/Sketchware-Pro) ![Discord server stats](https://img.shields.io/discord/790686719753846785)
 
-Here you'll find the source code of many classes in Sketchware Pro, and more importantly, **the**
+## Downloaded Using API
 
-place to contribute to Sketchware Pro.
-
-## Building the app
-
-You must use Gradle to build the app. It's recommended to use Android Studio, though.
+You must use Gradle to Uses the app. It's recommended to use Stable Network , though.
 
 There are two build variants:
 
- - one with support for exporting AABs from projects, (and only supports Android O and above)
+ - one with support for Downloaded from ModLabs, (and only supports Android O and above)
 
  - and one without. Supports Android 5 though.
-
-You must select the appropriate build variant in Android Studio using the Build Variants tab
 
 or use the appropriate build Gradle command.
 
@@ -30,7 +26,7 @@ or use the appropriate build Gradle command.
 
 Fork this repository and contribute back using
 
-[pull requests](https://github.com/Sketchware-Pro/Sketchware-Pro/pulls).
+[pull requests](https://github.com/ModLabsOfficial/ModLabs/pulls).
 
 Any contributions, large or small, major features, bug fixes, are welcomed and appreciated, but will
 
@@ -58,10 +54,6 @@ be thoroughly reviewed.
 
 Most changes might be UI-related, and we think it's more or less a waste of time. If something design-related gets changed,
 
-ideally the whole app must follow the new style too, and that's hard to accomplish, especially for mods. That's why:
-
- - Major changes to the UI (components which exist in vanilla Sketchware)
-
 are unlikely to be accepted.
 
 ### Commit message
@@ -69,8 +61,6 @@ are unlikely to be accepted.
 When you've made changes to one or more files, you have to *commit* that file. You also need a
 
 *message* for that *commit*.
-
-You should read [these](https://www.freecodecamp.org/news/writing-good-commit-messages-a-practical-guide/)
 
 guidelines, or that summarized:
 
@@ -98,13 +88,11 @@ Examples:
 
  - `fix: Fix crash during launch on certain phones`
 
- - `refactor: Reformat code at File.java`
-
 ## Thanks for contributing
 
-They help keeping Sketchware Pro alive. Each (helpful) accepted contribution will get noted down
+They help keeping ModLabs alive. Each (helpful) accepted contribution will get noted down
 
-in the "About Modders" activity. We'll use your GitHub name and profile picture initially, but they can be
+in the "About Developers" activity. We'll use your GitHub name and profile picture initially, but they can be
 
 changed of course.
 
@@ -116,16 +104,16 @@ Wanna chat with us, talk about changes or just hang out? We have a Discord serve
 
 ## Disclaimer
 
-This mod was not meant for any harmful purposes, such as harming Sketchware; Quite the opposite actually.
+This mod was not meant for any harmful purposes, such as harming ModLabs; Quite the opposite actually.
 
-It was made to keep Sketchware alive by the community for the community. Please use it at your own discretion
+It was made to keep ModLabs alive by the community for the community. Please use it at your own discretion
 
 and be a Patreon backer of them, for example. Sadly, all other ways to support them aren't working anymore,
 
 so it's the only way available currently.
 
-[Here's their Patreon page.](https://www.patreon.com/sketchware)
+[Here's their Telegram page.](https://t.me/ModLabs72)
 
-We love Sketchware very much, and we are grateful to Sketchware's developers for making such an amazing app, but unfortunately, we haven't received updates for a long time.
+We love ModLabs very much, and we are grateful to ModLabs developers for making such an amazing app, but unfortunately, we haven't received updates for a long time.
 
-That's why we decided to keep Sketchware alive by making this mod, plus we don't demand any money, it's completely free :)
+That's why we decided to keep ModLabs alive by making this mod, plus we don't demand any money, it's completely free :)
