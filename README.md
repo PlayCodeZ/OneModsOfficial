@@ -100,7 +100,7 @@ changed of course.
 
 Wanna chat with us, talk about changes or just hang out? We have a Discord server just for that.
 
-[![Join our Discord server!](https://invidget.switchblade.xyz/kq39yhT4rX)](http://discord.gg/kq39yhT4rX)
+[![Join our Discord server!](https://media.discordapp.net/attachments/991069266486919268/993431470339272784/20220704_152043.jpg)](https://discord.gg/WNrPyBUZsE)
 
 ## Disclaimer
 
