@@ -1,8 +1,6 @@
-<p align="center">
 
-    img src="https://media.discordapp.net/attachments/991069266486919268/993431470339272784/20220704_152043.jpg"/>
 
-</p>
+   [![Join our Discord server!](https://media.discordapp.net/attachments/991069266486919268/993431470339272784/20220704_152043.jpg)](https://discord.gg/WNrPyBUZsE)
 
 # ModLabs
 
